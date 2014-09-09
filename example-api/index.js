@@ -1,5 +1,3 @@
-var api = require('./api');
+var api = require('./api')
 
-api.listen(9001, function(){
-  console.log("Express Server started")
-})
+return api.listen(3000);
