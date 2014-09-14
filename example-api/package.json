@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.8.1",
     "express": "^4.8.8",
-    "glob": "^4.0.5"
+    "glob": "^4.0.5",
+    "jsonwebtoken": "^1.1.1",
+    "method-override": "^2.2.0",
+    "mongoose": "^3.8.16",
+    "morgan": "^1.3.0",
+    "passport-local-mongoose": "^0.3.0"
   }
 }
